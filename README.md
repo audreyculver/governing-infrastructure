@@ -15,6 +15,8 @@
 ## Project Information
 The loss of tropical forest plays a significant role in climate change, biodiversity loss and livelihood disruption. Large-scale infrastructure, often linked to extractive industries and agro-industrial expansion, may catalyze forest conversion in sensitive socio-ecological zones. Global financial flows, national political settlements, and local rights also influence patterns of forest conversion in the context of new infrastructure. Extensive data on these elements exist, but consistent and careful analysis across boundaries and data types is lacking. This pursuit will synthesize geospatial data and existing qualitative research to ask: (1) what are likely future scenarios for relationships among infrastructure investment, forest cover and communities; (2) how do different forms of environmental governance affect these scenarios; (3) how are these different forms of environmental governance explained: what factors bring them into being?
 
+<img src="Ucayali_roads.JPG" height="30%" width="30%" />
+
 ## Other Resources
 - https://www.extractivesatclark.org/
 
