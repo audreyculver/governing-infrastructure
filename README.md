@@ -2,7 +2,7 @@
 
 <img src="IMG_4112.JPG" height="50%" width="80%" />
 
-## Collaborators
+## Collaborators 
 
 - Nick Cuba (Clark U -> Auburn U at Montgomery)
 
