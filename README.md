@@ -30,7 +30,7 @@ to this "handouts" folder. The result should be a subdirectory called
 
 ## Collaborators
 
-- Nick Cuba
+- Nick Cuba (Clark U -> Auburn U at Montgomery)
 
 - Pilar Delpino Marimon
 
