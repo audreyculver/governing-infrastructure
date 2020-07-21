@@ -32,7 +32,7 @@ to this "handouts" folder. The result should be a subdirectory called
 
 - Nick Cuba
 
-- PDM
+- Pilar Delpino Marimon
 
 - MR
 
