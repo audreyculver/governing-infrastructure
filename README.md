@@ -36,4 +36,4 @@ to this "handouts" folder. The result should be a subdirectory called
 
 - MR
 
-- Laura Sauls
+- Laura Sauls (Clark University; University of Sheffield)
