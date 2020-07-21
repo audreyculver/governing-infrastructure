@@ -29,6 +29,8 @@ to this "handouts" folder. The result should be a subdirectory called
 [CONTRIBUTING.md]: CONTRIBUTING.md
 # Predictive modeling of the relationships among infrastructure, resource extraction, and environmental governance in Latin American forests
 
+<img src="IMG_5035.JPG" height="50%" width="80%" />
+
 ## Collaborators
 
 - Nick Cuba (Clark U -> Auburn U at Montgomery)
@@ -46,3 +48,5 @@ The loss of tropical forest plays a significant role in climate change, biodiver
 - https://www.extractivesatclark.org/
 
 - https://www.prisma.org.sv/
+
+- https://www.climateandlandusealliance.org/reports/impacts-of-extractive-industry-and-infrastructure-on-forests/ 
