@@ -29,7 +29,6 @@ to this "handouts" folder. The result should be a subdirectory called
 [CONTRIBUTING.md]: CONTRIBUTING.md
 # Predictive modeling of the relationships among infrastructure, resource extraction, and environmental governance in Latin American forests
 
-<img src="/Users/Laura/Library/Mobile Documents/com~apple~CloudDocs/pics/CentralAm/AugSept2017/IMG_5035.JPG" height="50%" width="80%" />
 
 ## Collaborators
 
