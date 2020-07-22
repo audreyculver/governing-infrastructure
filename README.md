@@ -4,7 +4,7 @@
 
 ## Collaborators 
 
-- Nick Cuba (Clark U -> Auburn U at Montgomery)
+- Nick Cuba (Clark U -> Auburn U at Montgomery) 
 
 - Pilar Delpino Marimon (Clark University)
 
