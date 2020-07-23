@@ -1,0 +1,56 @@
+--- 
+title: <p style="font-size:40pt"> Governing Infrastructure </p>  
+subtitle: <div align="top"> <p style="font-size:24pt">
+    Mini-project Presentation 
+    </p></div> 
+author: "Nick Cuba, Pilar Delpino, Madelyn Rivera and Laura Sauls"
+date: <p style="font-size:12pt"> 7/24/2020 </p>
+output: 
+  slidy_presentation:
+    theme: "flatly" 
+    footer: "SESYNC Cyber Institute 2020"
+--- 
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+## Background
+
+## Question and Data
+
+## Results
+
+## Ucayali Roads
+
+
+## R Markdown
+
+This is an R Markdown presentation. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see <http://rmarkdown.rstudio.com>.
+
+When you click the **Knit** button a document will be generated that includes both content as well as the output of any embedded R code chunks within the document.
+
+## Slide with Bullets
+
+- Bullet 1
+- Bullet 2
+- Bullet 3
+
+## Slide with Bullets
+
+- Bullet 1
+- Bullet 2
+- Bullet 3
+
+## Slide with R Output
+
+```{r cars, echo = TRUE}
+summary(cars)
+```
+
+## Slide with Plot
+
+```{r pressure}
+plot(pressure)
+```
+
