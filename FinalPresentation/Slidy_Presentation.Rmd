@@ -17,44 +17,82 @@ knitr::opts_chunk$set(echo = FALSE)
 
 ## <br/> Background
 
-- adf
-- asdf
+- Infrastructure - large- and small-scale - key driver of deforestation
+- Related to different goals: access to resources (extraction), regional integration, commodities transport
+- Re-commitment to infrastructure as key to development - but what effects?
 
 ## <br/> Questions and Data
+- For today: Can we determine whether titling affects deforestation outcomes in the Brazilian Amazon?
+- Data:
+  - National property registration data (INCRA)
+  - Deforestation by year (Global Forest Watch)
+  - Administrative boundaries (national, state, municipality)
+  - Roads
 
-## <br/> Initial Results
+--- 
 
----
-![Ucayali Roads](~/handouts/Governing_Infrastructure/ucayali_roads.jpg)
+<br/> <br/> <br/> 
+<br/> <br/> <br/>
+<br/> <br/> <br/>
+<div align="center"> <p style="font-size:48pt">
+Initial Results </p> </div> 
+
+--- 
+
+<br/> 
+<p align="center">
+![](deforestation_parcel.JPG){#id.class width=70% height=70%} </p>
+
+--- 
+
+<br/>
+<p align="center">
+![](parcels_date.jpg){#id.class width=70% height=70%} </p>
+
+--- 
+
+<br/> 
+<p align="center">
+![](TotalParcelDeforArealProp.png){#id.class width=70% height=70%} </p>
+
+--- 
+
+<br/>
+<p align="center">
+![](DiffParcelDefor_beforeafterReg.png){#id.class width=70% height=70%} </p>
 
 
-## R Markdown
+--- 
 
-This is an R Markdown presentation. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see <http://rmarkdown.rstudio.com>.
 
-When you click the **Knit** button a document will be generated that includes both content as well as the output of any embedded R code chunks within the document.
+<br/>
+<p align="center">
+![](deforestation_parcel_Acre.JPG){#id.class width=80% height=80%} </p>
 
-## Slide with Bullets
 
-- Bullet 1
-- Bullet 2
-- Bullet 3
+--- 
 
-## Slide with Bullets
+<br/>
+<p align="center">
+![](loss_roads.JPG){#id.class width=70% height=70%} </p>
 
-- Bullet 1
-- Bullet 2
-- Bullet 3
+--- 
 
-## Slide with R Output
-
-```{r cars, echo = TRUE}
-summary(cars)
-```
-
-## Slide with Plot
-
-```{r pressure}
-plot(pressure)
-```
+<br/> 
+<br/> 
+<br/> 
+<br/>
+<br/>
+<br/> 
+<br/> 
+<br/>
+<div align="center"> <p style="font-size:48pt">
+Thank you! </p> </div> 
+<br/>
+<br/>
+<br/>
+<div align="center"> <p style="font-size:20pt">
+Follow us on Twitter! 
+<br/>
+@ExtractivesCU and @prisma_org</p></div>
 

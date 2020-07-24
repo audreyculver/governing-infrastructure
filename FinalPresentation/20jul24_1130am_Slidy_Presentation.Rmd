@@ -39,6 +39,14 @@ Initial Results </p> </div>
 
 --- 
 
+<br/>
+<br/>
+<br/>
+<p align="center">
+![](Locator.PNG){#id.class width=70% height=70%} </p>
+
+---  
+
 <br/> 
 <p align="center">
 ![](deforestation_parcel.JPG){#id.class width=70% height=70%} </p>
